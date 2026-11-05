@@ -1,0 +1,6 @@
+{
+  "name": "Smart Route Finder",
+  "description": "Multi-Criteria Route Optimization with Traffic Simulation and Data Visualization for BTech Project-Based Learning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
